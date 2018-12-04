@@ -19,7 +19,7 @@ def create_xml_tree(file):
         return tree
 
 def write_json_file(file, jsonDoc):
-    with open(file + '.json', 'w', encoding='utf-8') as outfile:
+    with open('json/'+ file + '.json', 'w', encoding='utf-8') as outfile:
         outfile.write(jsonDoc)
 
 
@@ -28,11 +28,15 @@ if __name__ == '__main__':
     filenames = get_filenames()
 
     for file in filenames:
-        tree = create_xml_tree(file)
-        record = Record.Record(tree)
-        json_instance = JsonCreate.JSON(record)
-        jsonDoc = json_instance.build_json_doc()
-        write_json_file(file.split('.')[0], jsonDoc)
+        try:
+            tree = create_xml_tree(file)
+            record = Record.Record(tree)
+            json_instance = JsonCreate.JSON(record)
+            jsonDoc = json_instance.build_json_doc()
+            write_json_file(file.split('.')[0], jsonDoc)
+        except AttributeError as e:
+            print(file, e.args)
+            pass
 
 
 

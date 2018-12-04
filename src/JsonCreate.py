@@ -21,5 +21,5 @@ class JSON(object):
 
         officJSON = json.dumps(unOfficJSON, indent= 4)
 
-        
+
         return officJSON
