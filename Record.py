@@ -33,7 +33,7 @@ class Record():
 
         ## some funky formatting within participants. Quick check for space since a split on ';' was conducted
 
-        listParticipants = [participant for participant in participantSplit if not participant.isspace()]
+        listParticipants = [participant.strip() for participant in participantSplit if not participant.isspace()]
 
         return listParticipants
 
