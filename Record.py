@@ -44,8 +44,9 @@ class Record():
         listStatements = []
 
         for pos, node in enumerate(self.tree.findall('./contents/participant')):
-            statement = {'name': node.attrib.get('name'), 'text': node.text, 'pos': pos}
+            statement = {'speaker': node.attrib.get('name'), 'statement': node.text, 'pos': pos}
             listStatements.append(statement)
 
         return listStatements
+
 

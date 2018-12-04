@@ -2,6 +2,7 @@ import os
 from xml.etree import ElementTree as ET
 import glob
 import Record
+import JsonCreate
 
 
 
@@ -13,7 +14,6 @@ def set_working_directory():
 
 def get_filenames():
     for filenames in glob.iglob('*.xml'):
-
         yield filenames
 
 def create_xml_tree(file):
@@ -29,6 +29,7 @@ if __name__ == '__main__':
         tree = create_xml_tree(file)
         record = Record.Record(tree)
         print(record.statements)
+        json = JsonCreate.JSON(record)
 
 
 
