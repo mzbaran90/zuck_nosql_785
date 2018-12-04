@@ -21,15 +21,22 @@ def create_xml_tree(file):
         tree = ET.parse(infile)
         return tree
 
+def write_json_file(file, jsonDoc):
+    with open(file + '.json', 'w', encoding='utf-8') as outfile:
+        outfile.write(jsonDoc)
+
 
 if __name__ == '__main__':
     set_working_directory()
     filenames = get_filenames()
+
     for file in filenames:
         tree = create_xml_tree(file)
         record = Record.Record(tree)
-        print(record.statements)
-        json = JsonCreate.JSON(record)
+        json_instance = JsonCreate.JSON(record)
+        jsonDoc = json_instance.build_json_doc()
+        write_json_file(file.split('.')[0], jsonDoc)
+
 
 
 

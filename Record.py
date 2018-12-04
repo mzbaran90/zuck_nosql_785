@@ -29,9 +29,13 @@ class Record():
 
         '''
         participantsSingle = self.tree.find('./metadata/participants')
-        participantSplitList = participantsSingle.text.split(';')
+        participantSplit = participantsSingle.text.split(';')
 
-        return participantSplitList
+        ## some funky formatting within participants. Quick check for space since a split on ';' was conducted
+
+        listParticipants = [participant for participant in participantSplit if not participant.isspace()]
+
+        return listParticipants
 
     def setStatements(self):
         '''
@@ -46,7 +50,6 @@ class Record():
         for pos, node in enumerate(self.tree.findall('./contents/participant')):
             statement = {'speaker': node.attrib.get('name'), 'statement': node.text, 'pos': pos}
             listStatements.append(statement)
-
         return listStatements
 
 

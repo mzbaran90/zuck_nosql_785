@@ -21,4 +21,5 @@ class JSON(object):
                        'statements': self.record.statements}
         officJSON = json.dumps(unOfficJSON)
 
+        print(officJSON)
         return officJSON
