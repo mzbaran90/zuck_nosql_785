@@ -19,7 +19,7 @@ class JSON(object):
         unOfficJSON = {'record_id': self.record_id, 'title': self.title, 'speakers': self.record.speakers,
                        'category': self.category, 'date': self.date, 'url': self.url,
                        'statements': self.record.statements}
-        officJSON = json.dumps(unOfficJSON)
+        officJSON = json.dumps(unOfficJSON, indent= 4)
 
         print(officJSON)
         return officJSON

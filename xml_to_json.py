@@ -4,9 +4,6 @@ import glob
 import Record
 import JsonCreate
 
-
-
-
 def set_working_directory():
     abs_path = os.path.abspath(__file__)
     dir_name = os.path.dirname(abs_path)
