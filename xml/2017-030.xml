@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<transcript>
+    <metadata>
+        <record_id>2017-030</record_id>
+        <participants>Mark Zuckerberg;</participants>
+        <type>social media post</type>
+        <format>text</format>
+        <date>2017-01-19</date>
+        <source>Facebook</source>
+        <title>8th Data Center</title>
+        <url>https://www.facebook.com/photo.php?fbid=10103427282719751&amp;set=a.529237706231.2034669.4&amp;type=3&amp;theater</url>
+        <description>Announcing the building of the 8th FB data center in Odense, Denmark. Explains what data centers are.</description>
+    </metadata>
+    <contents>
+        <participant name="Mark Zuckerberg">We just announced we're building our eighth data center -- and our third in Europe -- in Odense, Denmark. Like the data center I visited in Fort Worth, Texas on Tuesday, this one will be powered by 100% renewable energy and support thousands of jobs in the community over the next few years.
+
+Data centers are the physical infrastructure to support our community. They're basically giant machines that control power, temperature, connectivity and maintenance for tens of thousands of little machines inside them. With more people going live and sharing video, this data center will help make sure Facebook keeps running smoothly for all of you. Thanks for having us, Odense!</participant>
+    </contents>
+</transcript>

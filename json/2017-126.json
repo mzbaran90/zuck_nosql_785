@@ -1,0 +1,356 @@
+{
+    "record_id": "2017-126",
+    "title": "Facebook Q2 2017 Earnings Call",
+    "speakers": [
+        "Operator",
+        "Deborah Crawford",
+        "David Wehner",
+        "Mark Zuckerberg",
+        "Sheryl Sandberg",
+        "Brian Nowak",
+        "Ralph Schackart",
+        "Heather Bellini",
+        "Peter Stabler",
+        "Douglas Anmuth",
+        "Ross Sandler",
+        "Justin Post",
+        "Mark Mahaney",
+        "John Blackledge",
+        "Mark May",
+        "Michael Nathanson",
+        "Robert Sanderson",
+        "Brian Wieser",
+        "Lloyd Walmsley",
+        "Benjamin Schachter"
+    ],
+    "category": "corporate communication",
+    "date": "2017-06-27",
+    "url": "https://investor.fb.com/investor-events/event-details/2017/Facebook-Q2-2017-Earnings/default.aspx",
+    "statements": [
+        {
+            "speaker": "Operator",
+            "statement": "Good afternoon. My name is Mike and I will be your conference operator today. At this time I would like to welcome everyone to the Facebook second quarter 2017 Earnings Call. All lines have been placed on mute to prevent any background noise. After the speakers' remarks, there will be a question and answer session. If you would like to ask a question during that time, please press star then the number 1 on your telephone keypad. This call will be recorded. Thank you very much.\nMs. Deborah Crawford, Facebook\u2019s Vice President of Investor Relations, you may begin.",
+            "pos": 0
+        },
+        {
+            "speaker": "Deborah Crawford",
+            "statement": "Thank you. Good afternoon and welcome to Facebook\u2019s second quarter 2017 earnings conference call.\nJoining me today to discuss our results are Mark Zuckerberg, CEO; Sheryl Sandberg, COO; and Dave",
+            "pos": 1
+        },
+        {
+            "speaker": "David Wehner",
+            "statement": "Before we get started, I would like to take this opportunity to remind you that our remarks today will include forward-looking statements. Actual results may differ materially from those contemplated by these forward-looking statements.\nFactors that could cause these results to differ materially are set forth in today\u2019s press release, and in our quarterly report on form 10-Q filed with the SEC. Any forward-looking statements that we make on this call are based on assumptions as of today and we undertake no obligation to update these statements as a result of new information or future events.\nDuring this call we may present both GAAP and non-GAAP financial measures. A reconciliation of GAAP to non-GAAP measures is included in today\u2019s earnings press release. The press release and an accompanying investor presentation are available on our website at investor.fb.com.\nAnd now, I\u2019d like to turn the call over to Mark.",
+            "pos": 2
+        },
+        {
+            "speaker": "Mark Zuckerberg",
+            "statement": "Thanks, Deborah. And thanks everyone for joining today.\nThis quarter we reached a big milestone for our community: 2 billion people now use Facebook every month, and more than 1.3 billion people use it daily. We also saw good results on the business, with total revenue growing by 45% year-over-year to $9.3 billion, and advertising revenue up 47% to $9.2 billion.\nWe're proud of the progress we\u2019re making, and it also comes with a responsibility to make sure that we have the most positive impact on the world that we can. That's why, last month, we updated Facebook's mission.\nFor the past decade, we've focused on making the world more open and connected. We have a lot more to do here to give people a voice and help everyone stay connected with their family and friends. But now I believe we have a responsibility to do even more. Our new mission is to bring the world closer together.\nA big part of this mission is building community. Communities give us that sense that we are part of something bigger than ourselves, that we are not alone, that we have something better ahead to work towards.\nLast month, we had our first-ever Facebook Communities Summit to talk about our product roadmap focused on building what we call \"meaningful communities.\"\nMeaningful communities on Facebook are groups that quickly become an important part of your social network experience and your real world support structure. And right now, over 100 million people are members of these groups -- from new parents to people suffering from rare diseases. These groups often span online and offline -- and bring people together physically as well as over the internet. Our goal is to help more than 1 billion people join meaningful communities. Part of this involves helping people discover the right groups, which is why we're building technology like AI that better understands people's interests and suggests groups that might be meaningful to them. And in the six months after we started working on this, we\u2019ve already helped 50% more people join meaningful communities than before -- but we have a lot more to do here.\nWe also want to make it easier for people to build and lead communities. Last month, we launched new tools for group admins -- making it easier for them to get insights into who their members are, filter member requests, and remove bad actors and their content quickly to keep a positive and safe environment.\nNext, I want to give a quick update on what we're building over our three time horizons: making our existing services more useful now; building new ecosystems over the next five years around our products that a lot of people already use; and creating foundational technologies to achieve our mission over the next 10 years.\nSo we're pleased with the growth we're seeing with Stories. Instagram Stories now has more than 250 million people using it daily, and WhatsApp Stories also has more than 250 million people using it daily. We're always working to improve and give people more ways to share. And this quarter, we added the ability to reply to stories with a photo or video, and share a replay of Live video on Instagram.\nI'm excited about how AI will improve people's experience across our products. We're finding AI is both delivering consistent improvements to many of our systems -- like News Feed, search, ads, security and spam filtering, and more. But more than just improving these existing experiences, I expect AI to change the way we do business in some important ways.\nFor example, today, to keep our community safe, we rely on people flagging content that might violate our community standards for us to review. In the future, AI will be able to help flag more of this content faster and before anyone has to see it.\nWe've started using AI to fight terrorism and keep propaganda and extremist accounts off Facebook. We've even started experimenting with using AI to understand text that might have been used to promote terrorism.\nIn News Feed, we currently mostly show you content from people and pages you're connected to. We can rank this better with the algorithm improvement, but the really big improvement from AI will be when we can understand all the other content that's out there so we can help you discover much more of what matters to you beyond just what friends are up to.\nOn the business side, we're seeing a large shift in the way marketing works. In the first wave of marketing, people would buy ads in media they thought their customers might watch -- like a TV show that had similar demographics. But they wouldn't know who saw their ad. The internet gave people the power to target their messages at people who actually might be interested and to measure results much more precisely. That was a big improvement. And now AI is taking this a step further. Now you can put a creative message there, and AI can help you figure out who will be most interested in it. You don't even need to target now because AI can do it more precisely and better than we can manually. This makes the ads you see more relevant for you and more efficient for businesses.\nThose are just a few of the reasons I'm optimistic about how AI is going improve our core services over the next few years. Over the next five years, we're going to build ecosystems around products that a lot of people are already using.\nWe've talked about how video will continue to be a big focus and area of investment for us. It's growing quickly, and we're introducing new features to make the video experience even better. For example, in May, we made the option to go live with someone else available for all profiles and Pages on iOS. We also launched closed captions to make Live more accessible.\nWe're also working to build a business ecosystem around Messenger and WhatsApp. Messenger and WhatsApp both have large communities and are growing quickly -- with 1 billion people now using WhatsApp daily. It's still early on the monetization side here, although we have started showing ads to a small number of people on Messenger. I want to see us move a little faster here, but I\u2019m confident we\u2019ll get this right over the long term.\nFinally, over the next 10 years, we're working on foundational technologies that are necessary to achieve our mission.\nIn VR, we launched Live from Spaces so you can go live with friends in different places. We think it has the potential to be a powerful tool to bring people together and help build community in new ways. We're also working to help everyone in the world access the opportunities that come with the internet. In May we successfully flew Aquila -- the solar-powered plane we're building to beam internet to parts of the world that currently don't have access \u2013 and it was the second successful flight.\nThese initiatives and other projects require ongoing, aggressive investment in the infrastructure to serve our community. Last quarter our Fort Worth data center went live and is now serving traffic using 100% renewable energy, and we're also expanding our data centers in Los Lunas, New Mexico and Altoona, Iowa.\nThis first half of 2017 has been an important period for Facebook. We've achieved some major milestones, delivered good business results, and set clear goals around building strong communities and bringing people and the world closer together, but we have a long way to go. Thanks to our community, our teams, our partners and all of you for being a part of our mission. I'm looking forward to making more progress together.\nAnd now, here's Sheryl.",
+            "pos": 3
+        },
+        {
+            "speaker": "Sheryl Sandberg",
+            "statement": "Thanks Mark and hi everyone.\nWe had a strong second quarter and a great first half of the year.\nOur business continues to deliver terrific results. Q2 ad revenue grew 47% year over year. Mobile ad revenue grew 53% year over year to 8.0 billion and is now 87% of total ad revenue. Our growth continues to be broad-based across regions, marketer segments, and verticals.\nOur goal is to build meaningful connections between people and businesses by focusing on our three key priorities: helping businesses leverage the power of mobile, developing innovative ad products, and making our ads more relevant and effective.\nOur first priority is helping businesses leverage the power of mobile.\nPeople are rapidly increasing the time they spend on mobile, and businesses know they need to be where consumers are. Given the size and engagement of our audiences, Facebook and Instagram are the best platforms to reach people and drive business results. We have over 70 million businesses on Facebook, and I\u2019m excited to announce today that we now have more than 15 million Business Profiles on Instagram.\nVideo is an important part of our mobile strategy. More video is being shared and watched on Facebook than ever before, and it\u2019s increasingly helping people and businesses connect. That\u2019s because video on Facebook is personal -- built around connections, conversations, and communities. This is why it creates opportunities for businesses to reach people in new and creative ways.\nPeople consume content faster on their phones and marketers are increasingly recognizing that this behavior is different than on other media. This means that developing short-form \u201csnackable\u201d content is a big opportunity on mobile. We\u2019re working hard to help marketers adopt mobile-first video ad strategies for Facebook and Instagram.\nIn a mobile environment, native mobile video ads typically outperform more traditional ads. For example, when Tropicana launched its probiotic juice, the company tested 6-second video ads against 15 and 30 second ads. The shorter ads resulted in higher brand metrics across the board, including a 16- point lift in brand awareness compared to a 6-point lift for the longer ads.\nOur second priority is developing innovative ad products. We\u2019re listening closely to feedback from marketers around the world to develop new ad formats and innovate on existing ones.\nLast quarter I talked about how our Dynamic Ads help retailers and e-commerce companies promote their products across devices. Dynamic Ads show people the products that are most relevant to them based on actions they\u2019ve taken \u2013 such as viewing items on a company\u2019s website.\nThis quarter, we continued to improve Dynamic Ads and extended them to new verticals and categories. Delta Airlines used our new flight format to reach people who had searched for a flight but not yet booked one. Delta was able to run personalized ads based on the routes people viewed on their site and then bring people back to their booking page. This resulted in a 12.7 times return on ad spend. This quarter, we also rolled out ads in Instagram Stories for all types of marketer objectives. As Mark described, Instagram Stories are growing incredibly well and are therefore a big opportunity for marketers. From driving brand awareness to increasing sales, businesses can now use full screen Instagram Stories ads for any goal. For example, Ben & Jerry\u2019s created a brand awareness campaign using vertical video in Instagram Stories and saw a 14-point lift in ad recall and a 2-point lift in purchase intent for its new Pint Slices ice cream.\nOur third priority is making our ads more relevant and effective. This means better targeting and better measurement across Facebook, Instagram, and Audience Network.\nMarketers of all sizes are increasingly following our best practices \u2013 like optimizing their ads to drive real-world outcomes rather than focusing on proxy metrics, such as Page likes and video views. 53% of our revenue from SMBs is from campaigns that use these tools and strategies, up from 23% in the beginning of last year.\nThis quarter we also added new ways for marketers to improve their targeting and spend more efficiently. For example, we introduced value optimization, which helps businesses show ads to people who are most likely to spend based on previous purchase behavior. We also introduced value-based\nLookalike Audiences, which use machine learning to help marketers reach people who are similar to their most valuable current customers.\nFor example, California-based accessory company Nomad built a Custom Audience of people in the US who bought something on their site \u2013 and then created a multi-country Lookalike audience of people with similar characteristics. They targeted ads to their international audience across Facebook, Instagram, and Audience Network, resulting in a 2.7 times return on ad spend.\nWe know that many marketers want to verify and compare results across platforms. This is why we\u2019re focused on giving our clients more options for third-party measurement and verification. We now have 24 partners in our measurement system, including 3 partners measuring viewability, and we're in the process of adding two more viewability partners, DoubleVerify and Meetrics.\nAs the first half of 2017 comes to a close, we feel good about the progress we\u2019re making. As marketers build more meaningful connections with people on mobile, we help them grow their businesses \u2013 which in turn grows ours.\nI continue to be grateful to our clients and partners all around the world, and to our global teams who make all of this possible.\nThanks and now here\u2019s Dave.",
+            "pos": 4
+        },
+        {
+            "speaker": "David Wehner",
+            "statement": "Thanks Sheryl and good afternoon everyone.\nEchoing Mark and Sheryl\u2019s comments, Q2 was another strong quarter for Facebook. We continued to see strong growth and engagement in our global community as well as momentum in our mobile ads business.\nLet\u2019s begin with our community metrics.\nIn June, 1.32 billion people visited Facebook on an average day, up 17% compared to last year. This number represents 66% of the 2.01 billion people that visited Facebook during the month of June, which was up 294 million or 17% compared to last year. Our community growth was again driven by product improvements on Android, our Internet.org efforts and ongoing third party promotional data plans in markets like India. We will begin lapping the impact of these promotions in Q3 of this year.\nWe are also pleased to see strong adoption and community growth across video, Instagram Stories, Messenger and WhatsApp. While these products do not monetize at the same level as News Feed, they are providing new ways to build global community.\nTurning now to the financials. All of our comparisons are on a year-over-year basis unless otherwise noted.\nQ2 total revenue was $9.3 billion, up 45%. Had foreign exchange rates remained constant with last year, total revenue would have been approximately $140 million greater or up 47%. Q2 total ad revenue was $9.2 billion, up 47% or 49% on a constant currency basis.\nAd revenue growth was strong globally. Rest of World and Asia-Pacific grew at 56% and 54%, respectively, while US & Canada and Europe grew at 45% and 43% respectively.\nMobile ad revenue was $8.0 billion, up 53% and represented approximately 87% of ad revenue. Desktop ad revenue grew 17% despite an ongoing decline in desktop usage. Note that our Q2 desktop ad revenue benefitted from our efforts to limit the impact of ad blocking technologies.\nIn Q2, the average price per ad increased 24% and the number of ad impressions increased 19%, primarily driven by mobile feed ads on Facebook and Instagram.\nPayments & Other Fees revenue was $157 million, down 20%.\nTotal expenses were $4.9 billion, up 33%.\nWe ended Q2 with over 20,000 employees, up 43% compared to last year. Our hiring growth rate increased for the third consecutive quarter as we continued to invest in the many opportunities ahead.\nQ2 operating income was $4.4 billion, representing a 47% operating margin.\nOur tax rate was 13%. In the quarter, excess tax benefits recognized from share-based compensation decreased our effective tax rate by 6 percentage points.\nNet income was $3.9 billion or $1.32 per share.\nQ2 capital expenditures were $1.4 billion, driven by investments in servers, data centers, office facilities and network infrastructure.\nWe generated over $3.9 billion in free cash flow and ended the quarter with over $35 billion in cash and investments.\nTurning now to the outlook.\nGrowth, engagement and advertising demand remain healthy but there are certain factors that will impact revenue growth that are worth mentioning.\nAs we have discussed before, we continue to expect that Facebook ad load will play a less significant factor driving advertising revenue growth going forward and that desktop ad revenue growth rates will slow in the second half of 2017 when we begin to lap efforts to limit the impact of ad blockers.\nIn addition, we expect that our strategic focus on driving engagement with mobile video may slow advertising impression growth given the relatively fewer ad impressions in video relative to News Feed.\nI would also note that we do not see our early efforts in Messenger monetization offsetting the factors that I just mentioned.\nFor these reasons, we continue to expect that our ad revenue growth rates will come down as the year progresses.\nWe continue to expect full-year 2017 Payments & Other Fees revenue to decline compared to full-year 2016.\nTurning now to the expense outlook.\nBased on our updated view of the remainder of the year, we are tightening our initial expense guidance range.\nWe expect that full-year 2017 total GAAP expense growth will be approximately 40-45% narrowed from our previous range of 40-50%.\nI would note that we expect to accelerate our headcount growth rates in the second half of the year as we remain solidly in investment mode. We also expect that our video content investments will contribute to operating expense growth in the second half of 2017.\nIn terms of capital expenditures, we expect that full-year 2017 capital expenditures will be in the lower end of the prior range of $7-$7.5 billion dollars. We are ramping our infrastructure investments to support global growth and anticipate more data center building activity in the second half of this year. For example, we recently broke ground on new buildings at our New Mexico and Iowa data centers.\nTurning now to tax. As I have noted previously, our tax rate will vary based on our stock price. At the current stock price, we would expect that our Q3 and full-year 2017 tax rates will both be similar to our Q2 rate.\nIn summary, the first half of 2017 was a strong period for Facebook, both financially and in terms of growth and engagement of our community.\nWe will continue to invest aggressively in the many opportunities we see ahead as we make progress on our mission to give people the power to build community and bring the world closer together.\nWith that, Mike, let\u2019s open up the call for questions.",
+            "pos": 5
+        },
+        {
+            "speaker": "Operator",
+            "statement": "We will now open the lines for a question and answer session.\nTo ask a question, press star followed by the number one on your touchtone phone. Please pick up your handset before asking your question to ensure clarity. If you are streaming today\u2019s call, please mute your computer speakers.\nYour first question comes from the line of Brian Nowak from Morgan Stanley.",
+            "pos": 6
+        },
+        {
+            "speaker": "Brian Nowak",
+            "statement": "Thanks for taking my question. I have one for Mark. Mark, the offerings on the core Facebook app have improved and changed a lot over the years from Groups, Live Video, Search, et cetera. I'd be curious to hear how you've noticed consumer behavior on the core product, the core Facebook app change as Instagram has grown. And how do you think about that evolving over the next three to five years?\nThanks.",
+            "pos": 7
+        },
+        {
+            "speaker": "Mark Zuckerberg",
+            "statement": "So the main value proposition for the Facebook app is helping people share any type of content that they want with any audience that matters to them, right? So you can go from text to photo to video from small groups to larger groups, from your friends to everyone in the world.\nAnd that's always been where the Facebook app has excelled. There have been different experiences that are more focused on specific things, but where the strong technological foundation supporting all of these different use cases, the Facebook app has always supported people using all of them. Now the biggest trend that we see in consumer behavior is definitely video, right?\nAnd there's a strong technological underpinning for that, which is that if you go back 5 years, you try to watch a video on your phone, it would probably have to buffer for a minute or so before you actually get to watch it, which wasn't a good experience.\nAnd if you want to upload a video like whether it's a longer video like what you post to News Feed or a 10-second story like what you'd post on any of the apps, I mean, even that might take 30 seconds to upload so it wasn't a good experience. So now as the technology on the network level improves to support that, what we're seeing is the ability to serve what is a large amount of demand for what's a very engaging type of content.\nAnd that demand flows across social content like we're seeing in Stories and feed to clearly a huge amount of public content. I mean, Pages are engaging in this and some of the trends that Dave just talked about for just a lot of video behavior across the platform.",
+            "pos": 8
+        },
+        {
+            "speaker": "Operator",
+            "statement": "Your next question comes from the line of Ralph Schackart from William Blair.",
+            "pos": 9
+        },
+        {
+            "speaker": "Ralph Schackart",
+            "statement": "Good afternoon. Mark, in the prepared remarks, you talked about Messenger and WhatsApp being in the early innings of the monetization. And then you also talked about your desire to move faster on Messenger. Just curious what are the factors sort of driving your willingness to move faster? And then how should we think about that both from a consumer and monetization experience?",
+            "pos": 10
+        },
+        {
+            "speaker": "Mark Zuckerberg",
+            "statement": "Well, on Messenger, there are two basic things that we're doing. One is we're starting to put some ads into the product just to see the basic parameters around how that performs, how people like the ads or don't, how they work for businesses and just try to get an understanding of that. We're starting to run that across the world. But as Dave said, we're starting to roll that out in a lot of places, the volume starts off pretty small.\nThe biggest strategic thing that we really need to do in messaging right now is make it so that people have organically interact with businesses and that is a good interaction both for people and for the businesses. So here's one way to think about this.\nIf you're a business and you have a higher ROI for interacting with a person in your messaging thread than you do on the mobile web or trying to get them to install an app, then that creates this positive feedback loop where you're going to point your ad towards the Messenger thread, you're going to invest more of your engineering resources in building out the content and experience around the Messenger thread.\nSo we're currently working on making it so that, that is the highest ROI thing. I think we're making progress there is not that we're going to crack every market at once, but in some, I think we're definitely getting there, we're getting positive feedback from the market. But once we start to achieve that in more and more verticals, I think that's going to start unlocking a lot of behavior.\nAnd a lot of businesses are going to want to push more interactions to happen there, which I think will really be the foundation for building that into a big business.",
+            "pos": 11
+        },
+        {
+            "speaker": "David Wehner",
+            "statement": "Yes, and Ralph, it's Dave. I would just add that with messaging monetization, this is early and it's not a near-term overall Facebook growth driver. And much like Instagram in its early days, we're going to be cautious. But unlike Instagram, this isn't a feed product so there are just -- there are more unknowns here.",
+            "pos": 12
+        },
+        {
+            "speaker": "Operator",
+            "statement": "Your next question comes from the line of Heather Bellini from Goldman Sachs.",
+            "pos": 13
+        },
+        {
+            "speaker": "Heather Bellini",
+            "statement": "Great, thank you. I was wondering, Sheryl talked a little bit about Instagram Stories. I was wondering if you could share the kind of the initial feedback from advertisers. Did they see it as similar to advertising in the IG feed? Or are they using it to reach people in a different way if you've noticed anything over the period that you've been doing it? Thank you.",
+            "pos": 14
+        },
+        {
+            "speaker": "Sheryl Sandberg",
+            "statement": "So it's pretty early for ads in Stories. And I think the way people largely think about this is this is another way of using the Facebook ad system, including our targeting and measurement capabilities to create ads that are great creative that can reach people. So the fully immersive format with the targeting and optimization of Facebook ads is a pretty unmatched opportunity.\nWe also have a huge opportunity within Instagram, and obviously, the use of ads in Instagram is much, much bigger than the use of ads in Stories. The way we think about this is we're trying to help marketers reach their customers, both their existing and their new customers effectively.\nAnd we think it's the combination of all these offerings that really are the strength of our business and explains why we can continue to grow. So within one interface, we're working with one sales rep. If you're a large company or a small company, you can buy Facebook, you can buy Instagram, you can buy Audience Network.\nYou can buy the different ad formats within Facebook and Instagram. And that means that you have multiple targeting opportunities, multiple opportunities and even opportunities to see who engages in an ad in one place and then reinvest to continue the conversation with those customers. So we think all of these things work together and these new formats fit in really nicely with ad system we built, which underlies all of the opportunity.",
+            "pos": 15
+        },
+        {
+            "speaker": "Operator",
+            "statement": "Your next question comes from the line of Peter Stabler from Wells Fargo.",
+            "pos": 16
+        },
+        {
+            "speaker": "Peter Stabler",
+            "statement": "Thanks, good afternoon. One for Sheryl, if I could. Sheryl, you guys have rolled out some initiatives designed to address specific advertising categories like Dynamic travel Ads. Could we anticipate more efforts going forward to address categories that may be relatively underpenetrated by Facebook, Instagram and Audience Network? So I'm thinking about categories like financial services, auto, for example.",
+            "pos": 17
+        },
+        {
+            "speaker": "Sheryl Sandberg",
+            "statement": "So we're really happy that our growth has been really strong across our verticals and that continues to be the case. Our top verticals are pretty consistent in e-commerce, CPG, entertainment, media, retail and gaming. For the most part, when we build products, we build them to work for all verticals and you see us do that. Being able to upload your catalog of products can be used no matter what your product lists are.\nWe do build vertical-specific ad products when they are necessary -- so Dynamic Ads for travel, for example, as you mentioned, being an example. I think the heaviest -- heaviest lifting of the work we do is really helping marketers in different verticals focus on the right metrics, which are the sales metrics because for too long, our industry has been focused on proxy metrics. How long someone viewed a video.\nEven brand lift, measurements we care about but these are all proxy metrics. What really matters is you see an ad and you buy a product, you see an ad and you drive a car off a lot. You see an ad and you order a service. And so there's very different processes with these different verticals in terms of helping them understand their own purchasing data, so that we can connect our ads to their ultimate purchases.\nWe believe that's one of the most important things that we've been very, very focused on. And we have a long way to go. And part of the results you see from us in different verticals are actually explained by the ability of us to help those marketers measure sales at the end of the day. The more that we can tie ad viewing to sales, the stronger our case is with our clients. And so we need to do a lot of work around the measurement with different verticals.",
+            "pos": 18
+        },
+        {
+            "speaker": "Operator",
+            "statement": "Your next question comes from the line of Doug Anmuth from JPMorgan.",
+            "pos": 19
+        },
+        {
+            "speaker": "Douglas Anmuth",
+            "statement": "Yes, thanks for taking the question. Two if I could. Mark, you visited many different parts of the country over the last several months. Just curious how you're applying what you've learned to Facebook and the broader platform. And then Dave, can you just give some more color on how things have changed in terms of OpEx and CapEx, just given that you're coming down toward the lower end of the ranges?",
+            "pos": 20
+        },
+        {
+            "speaker": "Mark Zuckerberg",
+            "statement": "So a lot of the themes around building community and bringing people closer together have been underscored by a lot of experiences that I've had traveling around. And I've tried to write about them, I don't write about each visit that I make on Facebook, but it's been really striking to me when you talk to folks in a lot of different communities how important local institutions and their local communities are for supporting people there.\nAnd there has been a clearly documented trend across the world of declining membership in a lot of different kinds of communities. And I think that's an important problem that is eating at the social fabric not only of our country but around the world, that I hope that we can play a role in addressing.\nAnd that's not something that we can do directly, but I believe that we can empower people who want to build local communities and want to play a leadership role in their local community to have the tools that they need. And I think if we can do that, then you start bringing people together at a local level. And when people feel more comfortable in their life at a local level, then I also think that, that helps bring people and bring the world closer together at a global level too.\nSo that all has been underscored by a lot of the visits and what I've seen as well as a lot of the research that we've done at Facebook, and it's all reflected in the new mission.",
+            "pos": 21
+        },
+        {
+            "speaker": "David Wehner",
+            "statement": "Doug, it's Dave. I don't think there's anything that's really fundamentally changed our tightening the range to 40 percent to 45 percent expense growth due to better visibility. We remain solidly in investment mode and, if anything, we're finding new opportunities to invest in. From the perspective of hiring growth, I'd really point to the fact that we've been consistently accelerating hiring so far in 2017.\nAnd I pointed to the fact that we expect to accelerate hiring in the back half of the year as well. And this quarter was the biggest recruiting quarter in terms of net hires ever for Facebook. We're continuing to invest in a number of key areas, hiring engineers to drive the 3-, 5- and 10-year priorities. We're going to be investing in content to help build a platform for content producers that find an audience and monetize.\nWe are also continuing to invest in areas like community operations and other areas. So we remain solidly in investment mode from a total expense point of view. On CapEx, we still expect to be within the range of $7 billion to $7.5 billion, and we're investing aggressively in our data center footprint to support the global growth that we see.\nSo I think across the board, we're investing heavily. On headcount, I would just point out that our payroll growth tends to lag headcount growth because headcount is an end of period number, so the acceleration that we're seeing in 2017 will ultimately play out in 2018 as well.",
+            "pos": 22
+        },
+        {
+            "speaker": "Operator",
+            "statement": "Your next question comes from the line of Ross Sandler from Barclays.",
+            "pos": 23
+        },
+        {
+            "speaker": "Ross Sandler",
+            "statement": "Good, I have a couple of questions on the messaging apps. I think two years ago, at F8, you talked about WhatsApp userbase about a little over 1 billion sending out 50 billion messages a day, and Messenger who's about 1 billion and 20 billion messages a day. So implying kind of like 2.5x the engagement on WhatsApp compared to Messenger.\nIs that accurate and where does that stand today? And then both of these messaging apps kind of started in different geographies around the world. So how does that impact your thinking around monetization ideas between Messenger and WhatsApp?",
+            "pos": 24
+        },
+        {
+            "speaker": "David Wehner",
+            "statement": "Yes, I don't think we're sharing detailed stats on engagement by messaging platform. They're obviously both critical platforms. Both have over 1.2 million monthly actives. And WhatsApp has demonstrated significant engagement with crossing a billion daily actives. So I think that indicates the engagement that you have on that platform. There are different geographies where the messaging platforms are stronger.\nAnd depending on that, that shifts our priorities in different ways. But overall from a monetization perspective, I think the strategy there is we're focused on growing the user base, first and foremost, and then secondly, it's about building organic connections between businesses to -- and consumers; and then third, it's about how\nwe build monetization around those relationships. And I think there, we're further along with Messenger than we are with WhatsApp. And so I think you see us rolling out the global beta there with ads. So I think we'll watch and learn from that, and as we learn things, we can apply them in other areas.",
+            "pos": 25
+        },
+        {
+            "speaker": "Operator",
+            "statement": "Your next question comes from the line of Justin Post from Bank of America Merrill Lynch.",
+            "pos": 26
+        },
+        {
+            "speaker": "Justin Post",
+            "statement": "Great, thank you. Maybe a question for Mark. I know video is a priority for the company. To start with, any change in user trends or engagement as you've added video to Facebook? And then secondly, just how do you think about semiprofessional or professional video for Facebook?\nIs that a good business, given all the content sharing costs and the production costs when you compare it to kind of your existing social business? And do you see it as cannibalistic or additive as far as usage? Thank you.",
+            "pos": 27
+        },
+        {
+            "speaker": "David Wehner",
+            "statement": "I can share a little bit about it then Mark would want to jump in on any other color. I mean, I would say as I mentioned, Justin, in my commentary, as people spend more time with video and more time is going to video, that is going to have a limiting factor to how much time they spend in News Feed. And so that's going to have an impact on impression rate growth. So there is, in that sense, a cannibalistic effect of sort it happens there.\nBut what Mark alluded to is video is where people, as networks improve and devices improve and our products improve, video is the most engaging experience that we can offer. And so we're seeing consumers adopting that and we're building products for them. In terms of the types of content, I think we're looking at a wide variety of content from, of course, at the core as people share experiences in their lives - that's at the face of what we offer in terms of bringing the world closer together. It's just that community content but then there's opportunities for semi-professional and professional content, and we're exploring things around the platform of making sure that we're a platform where professional content providers can come find an audience and then also monetize that.",
+            "pos": 28
+        },
+        {
+            "speaker": "Operator",
+            "statement": "Your next question comes from the line of Colin Sebastian from Robert Baird. Colin Sebastian: Great, thanks. Mark, I wanted to ask a question on conversational interface; specifically if we should think of Facebook becoming integrated as the skill app or feature on platforms such as Alexa? Or should we think of things like Oculus, Messenger and perhaps even a dedicated device as part of Facebook's alternative platform? And then Dave, just hoping you could put a finer point on the timing around the reduction in ad load growth.",
+            "pos": 29
+        },
+        {
+            "speaker": "Mark Zuckerberg",
+            "statement": "I mean, to the first question, we're going to build the services that we think are useful. Some of them are going to be platforms and some of them are going to be apps and different things on top of platforms that other folks build. But fundamentally, we're trying to serve our community the best we can and we'll do that across all these platforms.",
+            "pos": 30
+        },
+        {
+            "speaker": "David Wehner",
+            "statement": "Yes. And in terms of ad load growth, I pointed to the fact that we continue to expect that ad load will be a less significant factor in the remainder of 2017. And that's certainly the case. That starts in Q3 but there's a number of other factors that I also pointed to, including the desktop lapping some of the efforts we made on desktop in terms of unblocking or working against the ad blocking technologies.\nAnd so that has a factor on desktop growth. And then, of course, I talked about video and our focus on driving and serving the consumer demand for video. And that's also leading to a potentially lower impression growth as well.",
+            "pos": 31
+        },
+        {
+            "speaker": "Operator",
+            "statement": "Your next question comes from the line of Rich Greenfield from BTIG. Richard Greenfield: Hi, thanks for taking the question. On one of your blogs, you put a post up basically detailing basically what people were doing during TV. And you showed kind of a control group where Facebook usage was really constant. And then you did a group that was watching the TV show, and you saw huge spikes of Facebook usage during the television -- during the ad breaks during the show.\nWondering like as you go talk to marketers, obviously, TV ratings are down a lot. How does that type of study -- I realize it's just one TV show but as you make the pitch of like why are you not shifting dollars faster to Facebook, how does that type of research start to play into their thinking and what's holding them back? Is it just the creative doing or the embracing of 6-second ads, like what's the block to getting more of that $70 billion of TV ad dollars to shift over faster? Thanks.",
+            "pos": 32
+        },
+        {
+            "speaker": "Sheryl Sandberg",
+            "statement": "Well, that is just one study and I don't want to overstate its importance in how we sell ads. We make the case to our clients that consumers are moving to mobile and that they need to move to mobile. And not that mobile should replace all of their other advertising but responsible marketers at a great company large and small.\nThey'll advertise on TV and advertise on mobile and they advertise in other places. Our goal is to be the best dollar and the best minute anyone spends. And the case we make is that we want them to take advantage of the opportunity that is mobile and the opportunity for the targeting we offer and the measurement we offer. I think what has taken us time and continues to take us time is we need to convince marketers to make mobile-first video and video and other ad format.\nWe talked a lot about how the first TV ads were people reading their radio ads in front of microphones. And we're still in the case that when people go to put an ad on mobile, they often will take an ad that's really produced for TV and put it on mobile. And those work and they can work well but they do not work as well as ads that are natively mobile like the Tropicana example I shared in my earlier comments.\nMobile ads when they're video are shorter. The brand comes in faster. They tell a story that doesn't evolve but really gets you to understand the brand and offering really quickly. We talked about it as thumb stopping creative. And so the work that we have cut out for us is to help marketers and working with their agencies involved the format of the ads so that's optimized for mobile, optimized for Facebook, optimized for Instagram. I think we're making progress but we have a long way to get there.",
+            "pos": 33
+        },
+        {
+            "speaker": "Operator",
+            "statement": "Your next question comes from the line of Mark Mahaney from RBC Capital Markets.",
+            "pos": 34
+        },
+        {
+            "speaker": "Mark Mahaney",
+            "statement": "Great, thanks. Mark, you talked about maybe trying to accelerate a little bit the messaging monetization. And I'm wondering if there's anything more behind that statement is that you were frustrated with the level that you'd seen to date? Or that you saw some opportunity that you thought you could accelerate the push towards, I guess, monetizing?\nAnd maybe big picture, I want to ask just, as you think -- I know the monetization is very early stage, it's barely even begun. There's very few platforms around the world that got a billion users that are unmonetized. So you would think that there's a lot of opportunity there but maybe not and maybe people are making a mistake in trying to look at Asian assets and seeing what they've done there and thinking that you can do that with your assets.\nSo what's the upside, like when you think about the real opportunity like what gets you excited about the ability to monetize those assets five years from now?",
+            "pos": 35
+        },
+        {
+            "speaker": "Mark Zuckerberg",
+            "statement": "Sure. So we're currently going through the process of figuring out what we want to invest in over the next year and during our long-range planning. And this is certainly one of the areas where I think we want to be investing a lot more in and believe that there's a big opportunity and can accelerate all the effort. I do think, as you say, this is one of the rare times in business where you can look at messaging platforms that exist and see how they've successfully monetized in other parts of the world and have that be a floor.\nI think that over time, we should be able to do better. But that at least provides the existence proof that despite -- regardless of what our internal logic is of what we're doing, that someone has done it, so that gives us some degree of confidence there in addition to our own execution on other things. But I think there's a pretty clear playbook that we have here of first, building up the consumer usage then building up the organic person to business interaction, making sure it works for both people and businesses.\nAnd then once you have that, the quality of those interactions is really what contributes to scale of how much you can grow it. We\u2019ve seen this in News Feed too. One of the factors that contributed to ad load over time is the quality of the ads. If ad quality was low, we wouldn't be able to put as many ads in because people wouldn't want that.\nBut in a lot of markets around the world, we see that ad quality is increasing at a very fast rate and that makes it and a lot of times people ask for the content, which, of course, create a very different dynamic. We need to get to that in messaging and there's -- because messaging really started from this place of people communicating one-to-one with each other is now adding all these other uses, it's just a lot of investment and a lot of different functionality that needs to get at it.\nBut for all the reasons that I've said here around our own experience doing this in other context with Facebook and Instagram, proof points in the market of how it's worked, I think over the long term, I'm pretty confident that we will get there and we get our job to just go do that.",
+            "pos": 36
+        },
+        {
+            "speaker": "David Wehner",
+            "statement": "Yes, and I would just add, we don't know at what level that is, right? So we're more - - we had more experience with feed-based product so we kind of know how those play out. And so we're -- this is in very much early day\u2019s mode.",
+            "pos": 37
+        },
+        {
+            "speaker": "Operator",
+            "statement": "Your next question comes from the line of John Blackledge from Cowen.",
+            "pos": 38
+        },
+        {
+            "speaker": "John Blackledge",
+            "statement": "Great, thank you. Two questions on the Messenger ads, recognize that it's early days. But just wondering if you think there'll be more -- those ads will be more complementary for core Facebook and Instagram advertisers or perhaps serve a different advertiser base or different use cases versus core Facebook and Instagram.\nAnd then second question would be at the high end of the OpEx guide, it implies 53 percent year-over-year OpEx growth in the back half of the year versus plus 36 percent in the first half. Just wondering if you can discuss other key drivers of OpEx growth in the back half of the year aside from headcount. Like should we consider investment in video content, the number two driver of OpEx growth in the back half of the year? Thank you.",
+            "pos": 39
+        },
+        {
+            "speaker": "Sheryl Sandberg",
+            "statement": "On the Messenger ads, I think the way we think about it is, as Mark said, we have a lot of work to do to work on the format of that. This is not a feed-based product and this is a messaging product so it's a different consumer format. And we believe that the ad format should follow consumer format so it's really integrated as part of the experience. And that's where we have a lot of work to do.\nWe do think that the advertiser base and the targeting measurement we offer, once we figure out the format, we will be very considerable advantage. We already have 5 million advertisers on Facebook, 1 million advertisers on Instagram. And one of the reasons we were able to scale into Instagram ads more quickly is because we were building off of the Facebook advertiser base.\nAnd similarly, the work we've done in Facebook and Instagram and Audience Network will help us expand to Messenger. But we really want to emphasize especially since there are so many questions on Messenger monetization on this call that we're going to be slow and deliberate. We are always looking at the long run.\nWe do not manage this company quarter to quarter. We protect the consumer product and the consumer engagement.\nMessaging is really strategically important for the company and the long-term engagement with our users and the organic feel of the engagement with businesses of consumers is where we will be focused. So it's early days this year and it's going to continue to be early days for a while.",
+            "pos": 40
+        },
+        {
+            "speaker": "David Wehner",
+            "statement": "So on the OpEx guide, clearly, the biggest driver there is going to be the accelerating headcount growth. In addition, I mentioned video content as being a driver. And then also we're just supporting the global growth of the platform. We continue to see growth in users.\nWe continue to see growth in time spent per DAU across the Facebook family of apps and Facebook and we're bringing more data centers online and the like support that growth so those will start hitting cost of revenue with depreciation. So there's going to be a variety of contributions to that growth. Like you mentioned, I would point to both headcount specifically in R&D. R&D headcount grew 48 percent year-over-year in Q2. And that is just going to be a key driver, along with the content layering.",
+            "pos": 41
+        },
+        {
+            "speaker": "Operator",
+            "statement": "Your next question comes from the line of Mark May from Citi.",
+            "pos": 42
+        },
+        {
+            "speaker": "Mark May",
+            "statement": "Thanks for taking my questions. Sheryl, in your prepared remarks about a case study, you discussed the benefits of shorter video ads, but I was hoping you could provide an update on the mid-roll ad breaks that you've now been testing for a few months and maybe what kind of progress that you're seeing in terms of completion rates. Are you at a point where those -- or ad breaks can start to roll out more broadly?\nAnd then Dave, you mentioned that the greater focus on video could impact growth in ad impressions but would you also assume that a greater focus on video ads could also drive improved ad pricing and yield on your available inventory?",
+            "pos": 43
+        },
+        {
+            "speaker": "Sheryl Sandberg",
+            "statement": "On ad breaks, we're currently really just testing the ability to put a short ad break in uploaded videos. We do if the videos longer than 90 seconds or live videos or longer than four minutes. We're just in the process right now of expanding to more publishers in the United States so it's really early. In terms of the metrics we're looking for, it's a great question.\nAnd obviously, we care that people view the ad but most important thing is tying those ad impressions even if they're short views all the way through to that same purchase data that we keep talking about. And so as we work on rolling out more ad breaks and we are rolling out slowly, we are really focused on finding ways to help marketers measure the right things, and that's a very important focus for the company going forward.",
+            "pos": 44
+        },
+        {
+            "speaker": "David Wehner",
+            "statement": "You were asking about video and impacts on pricing growth. I would probably step back and look at it from an overall system perspective. And so starting with the supply side, there's a variety of factors impression growth. And I mentioned slower ad growth and then increasing video launch time being two of them. And given there's an auction that drives the pricing in how we run the business, there's always an interplay between supply growth and pricing growth.\nAnd to the extent -- what we really focused on is driving better ROI for our advertisers. And Sheryl alluded to it in her earlier commentary about if we get better at converting our impressions into things that are valuable for advertisers, we get more efficient at doing that, we'll be rewarded with better pricing and higher demand and better pricing as a result of that hard work.\nThat doesn't necessarily specifically pertain just to video. It really is across the board. So if we are effective continuing to do that, then that should benefit pricing growth. And if we can grow demand faster than we grow supply then we are going to see that play through in price, and that's really the goal of a lot of the hard work that the ad team does to make our products better and more effective for advertisers.",
+            "pos": 45
+        },
+        {
+            "speaker": "Operator",
+            "statement": "Your next question comes from the line of Michael Nathanson from MoffettNathanson.",
+            "pos": 46
+        },
+        {
+            "speaker": "Michael Nathanson",
+            "statement": "Thank you. I have one for Dave, one for Sheryl. Dave, going back to your prepared comments, I think you mentioned 24 percent growth in pricing this quarter on unit pricing. Can you help us explain or understand underlying that growth, which products you're seeing the greatest inflation maybe quarter-over-quarter or yearover- year?",
+            "pos": 47
+        },
+        {
+            "speaker": "David Wehner",
+            "statement": "Yes, I don't think there's any -- I would really just kind of point to the overall dynamics of the system. And again, what we're seeing is with slower supply growth, that's going to play out higher pricing, and again, are we effective and we've been effective at delivering good return on investment for our advertisers and getting better at converting what we have as inventory into what they care about as outcome.\nAnd that from a systemic point if he is what's playing through the -- from a product perspective, as we get things like Dynamic Product Ads rolled out, those are incredibly valuable as we connect more advertisers and bring more data into the system, and we can get more of the impressions that are very highly targeted and very relevant, then we'll be rewarded with better pricing.\nAs we can expand that out into things like Lookalike, we talked a lot about on this call, that basically takes some of that really good targeting and extends that into a much bigger audience, and then we can get more impressions at better value because we are really connecting that with end results at the advertisers value. So it's really those types of -- all that type of work that we do to get the system better and better.\nAnd so we're constantly working to get better penetration of these key ad products.\nIn terms of the supply side, obviously, News Feed is incredibly valuable because it's very present for the consumer and improved the quality of the ads of News Feed, and that's another driver from the supply side.",
+            "pos": 48
+        },
+        {
+            "speaker": "Operator",
+            "statement": "Your next question comes from line of Rob Sanderson from MKM Partners.",
+            "pos": 49
+        },
+        {
+            "speaker": "Robert Sanderson",
+            "statement": "Yes, thank you. Good afternoon. Already feels like a call about Messenger monetization, almost reluctant to ask another. But just two things -- compared to what you saw an early stages of testing News Feed ads, what can you say so far about users' responsiveness to ads in Messenger? And then second, obviously, there's a lot of momentum in the development of bots on the platform.\nAnd do you see this enabling a great organic interaction, as Mark put it, as a way to ultimately make Messenger a great ad platform? Or do you think that enabling these other business services can lead to other monetization opportunities down the road independent of advertising?",
+            "pos": 50
+        },
+        {
+            "speaker": "Sheryl Sandberg",
+            "statement": "It's really too early to understand the impact of the ad on consumers because there aren't enough of them and they haven\u2019t rolled out for long enough. In terms of the bots -- what we really think about is our business is in people making useful connections on both sides on Messenger or any platform. If the connection is useful for marketers, businesses, and useful for people then it will grow.\nAnd we're open to automated bots being useful, we're open to other forms of things being useful. I think when you think about what bucket of spend that is in, which is a question we get, it really is both marketing spend and any other spend companies have where they are reaching their customers of which if you think about marketing spend and customer service spend, marketing spend is a way bigger because marketing spend grows as you can grow sales, and customer service spend is something that people generally try to minimize.\nSo the way we think about it is a -- we want to grow organic connections whether they are automated or whether they're personalized and make sure that, that is growing the business of our customers.",
+            "pos": 51
+        },
+        {
+            "speaker": "Operator",
+            "statement": "Your next question comes from the line of Brian Wieser from Pivotal Research.",
+            "pos": 52
+        },
+        {
+            "speaker": "Brian Wieser",
+            "statement": "Thanks for taking the question. I was wondering if you could comment on how you think the European Commission\u2019s GDPR, and related privacy initiatives will impact the business, either generally -- possibly negatively and whether or not those policies around privacy might yet become global standards. Curious how you think that impacts both the consumer product as well as the advertising business.\nAnd maybe separately, I'm just curious among those advertisers who've expressed particular concern around third-party tool access. We've certainly heard from some who've said very publicly that they're reduced their spending. Obviously others clearly are increasing their spending. But curious how far you've gone towards allaying those concerns and possibly regaining any lost spend.",
+            "pos": 53
+        },
+        {
+            "speaker": "Sheryl Sandberg",
+            "statement": "When we think about any regulatory issues, GDPR or anything else, we respect the local laws and regulations and we have to work really closely with regulators to make sure we understand our business practices, understand how they contribute to economic growth in their countries and understand the steps we have taken and continue to take to protect privacy.\nCertainly, regulation is always an area of focus that we work hard to make sure that we are explaining our business clearly and making sure regulators know the steps we take to protect privacy as well as making sure that we're in compliance. When you think about the metrics question you asked, how we think about what I think you are asking about just third-party verification.\nWe\u2019re very interested in making sure that marketers can verify or measure outcomes to third parties, and that's why we're working to actively expand those partnerships.",
+            "pos": 54
+        },
+        {
+            "speaker": "Operator",
+            "statement": "The next question is from the line of Lloyd Walmsley from Deutsche Bank.",
+            "pos": 55
+        },
+        {
+            "speaker": "Lloyd Walmsley",
+            "statement": "Thanks for taking the question. Another one on Messenger, so you guys have talked of building -- the importance of building organic consumer to business interaction here. So wondering if you can share kind of what sort of adoption you are seeing in those kind of interactions and are there certain verticals or geos where it's really taking off? And then a second if I can.\nWe've talked a lot obviously already about ad impression growth and how it's set to slow in the second half. You are already seeing a big slowdown in impression growth in the first half, and yet as you've noted with supply growth slowing, pricing has gone up as he batted a lot of ROAS to your customers. So wondering why should this phenomenon not continue to carry ad revenue growth in the second half.",
+            "pos": 56
+        },
+        {
+            "speaker": "Mark Zuckerberg",
+            "statement": "I'll take this. So there have been a number of questions about Messenger, and in general, we're seeing -- I'm happy with the rate of growth in the experiences that we're seeing on Messenger. But if there's one message here that I think is actually important to say, it's that we're trying to communicate that the pace of growing the Messenger business, it's a longer-term thing.\nI actually think in -- over the next couple of years or a few years, the much bigger driver of the business and determinant of how we do is going to be video, not Messenger. Messenger, I think, is a really important thing and WhatsApp over a 3- to 5-year period and we're investing a lot and that is huge opportunity.\nBut as has been noted on the call, video is both at large scale and the economics are quite different from what the current feed-based businesses that we have today, especially around how -- with mid-roll ads and rev share around that the margin structure will be different.\nSo one of the big questions is that we're focused on as we build it out we're very committed to building it out because it's what people in the community want but one of the big things that we are really very focused on is making sure that we get this right so that even though this business will likely be -- not likely I think, almost certainly will be a lower margin source of revenue than the current thing that we do, there's a big question of how incremental is that behavior going to be.\nI mean, I just want to -- I'm just throwing this context out there because so many questions here today have been about Messenger. And I want to make sure on these calls that we do an accurate and a full job of conveying what we're actually thinking about as the business and what we think the outlook is going to be.\nAnd I think that those -- those questions around video, which I'm optimistic about but there are real questions there that we need to manage well is going to be a much bigger driver of the business over the next two to three years likely even than the trajectory of what we're doing on Messenger and WhatsApp.",
+            "pos": 57
+        },
+        {
+            "speaker": "David Wehner",
+            "statement": "And Lloyd, you asked about why the good work that we've done so far in basically providing value for advertisers is playing through into price. Look, that's not just happening. That's a bunch of hard work making our ads more targeted that makes the outcomes that advertisers get more valuable. We're going to continue to work to do that, and we're going to continue to invest in making improvements in the ad products.\nBut yes, there's -- and we think there are great opportunities to continue to make improvements to ROI. But obviously, if you have rising prices, that's going to make that work against an upstream trend, so we need to continue to work hard to deliver more value for advertisers in the face of that. So we've got our work cut out for us, and we think we've got a great team working on that -- on those challenges.",
+            "pos": 58
+        },
+        {
+            "speaker": "Deborah Crawford",
+            "statement": "Operator, we are going to take one last question.",
+            "pos": 59
+        },
+        {
+            "speaker": "Operator",
+            "statement": "The last question comes from Ben Schachter from Macquarie.",
+            "pos": 60
+        },
+        {
+            "speaker": "Benjamin Schachter",
+            "statement": "Thanks for taking the question. Mark, you've stated that AR mixed reality could be the next computing platform. And obviously, this is way out in the future but if that implies something so large how do you think about allocating resources for that how much you're willing to spend on it and how you think any new thoughts on how this all evolves.\nThen related to that, the next iPhone is coming out soon. Do you think that there'll be capabilities there that will impact the AR evolution meaningfully?",
+            "pos": 61
+        },
+        {
+            "speaker": "Mark Zuckerberg",
+            "statement": "Well, this is certainly something that I'm really excited about long term. I think it's not only possibility of being the next major computing platform, AR and VR together, but I think it has the possibility of being much more social and intuitive and natural than some of the devices that we have today, whether they're computers or phones. And that's why I'm really excited about that.\nWhen you think about AR glasses, the technology and science to build an experience that would be both comfortable to wear and some of the people actually want to wear out in public, that doesn't exist yet, right? So there's a lot of foundational work that needs to get done there that's partially why I'm excited about doing the VR work because it doesn't have that constraint, you're not wearing VR out in public.\nBut also recently, I think one of the things that we've seen is that there are a lot of AR experiences on mobile, right? So the work that we've started talking about at F8 that we are releasing slowly over the course of the year is certainly one of the precursors for building out that ecosystem that I'm excited about.\nBut I mean, look, if I was just saying that video is going to be the primary driver or one of the big drivers over the next few years and Messenger maybe after that, I think AR is quite far down the road. But when you're running an operation and serving people of this scale, I think you have a responsibility to invest in all these things that are downstream that could help shape and improve people's lives because I don't think that there are many other folks in the world who will.\nSo I think that, that's a thing that we take seriously, whether it's connectivity and making sure that people actually all around the world get to enjoy and benefit from the opportunities that the Internet has or the improvements that come from AI or eventually upgrading the computing platforms that we all get to use. This stuff just doesn't happen automatically. And someone in the world needs to focus on building it and we want to play a role in that.",
+            "pos": 62
+        },
+        {
+            "speaker": "Deborah Crawford",
+            "statement": "Thank you. Thank you for joining us today. We appreciate your time, and we look forward to speaking with you again.",
+            "pos": 63
+        },
+        {
+            "speaker": "Operator",
+            "statement": "Ladies and gentlemen, this concludes today's conference call. Thank you for joining us. You may now disconnect your lines.",
+            "pos": 64
+        }
+    ]
+}
