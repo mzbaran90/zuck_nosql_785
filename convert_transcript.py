@@ -1,7 +1,7 @@
 from glob import iglob
 import json
-from helpers import parse_xml, set_working_directory
-
+from xml.etree import ElementTree as ET
+from helpers import set_working_directory
 
 class Transcript:
     """
@@ -31,10 +31,13 @@ def get_text(tree, path):
         return element.text
 
 
+
+
 if __name__ == '__main__':
     set_working_directory()
-    for file in iglob('XML/*.xml'):
-        tree = parse_xml(file)
+    for file in iglob('xml/*.xml'):
+        tree = ET.parse(file)
+
         transcript = Transcript(tree)
         with open('JSON/{}.txt'.format(transcript.record_id), 'w') as outfile:
             json.dump(transcript.__dict__, outfile)
