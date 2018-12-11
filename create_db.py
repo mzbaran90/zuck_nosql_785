@@ -9,13 +9,14 @@ if __name__ == '__main__':
     # Authentication
     client = MongoClient('localhost', 27017)
     db = client.zuck
-    transcripts = db['zuck_transcripts']
+    transcripts = db['transcripts']
 
     # deletes collections contents and drops all indexes
 
-    print(db.collections.count())
+    print(db.transcripts.count())
     db.transcripts.delete_many({})
     db.transcripts.drop_indexes()
+    print(db.transcripts.count())
 
 
 
@@ -26,6 +27,7 @@ if __name__ == '__main__':
         with open(file, 'r') as handle:
             json = load(handle)
             result = db.transcripts.insert_one(json)
+    print(db.transcripts.count())
 
 
     # Indexing
