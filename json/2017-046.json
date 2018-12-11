@@ -1,9 +1,6 @@
 {
     "record_id": "2017-046",
     "title": "MZ @ Selma, AL",
-    "speakers": [
-        "Mark Zuckerberg"
-    ],
     "category": "social media post",
     "date": "2017-02-21",
     "url": "https://www.facebook.com/photo.php?fbid=10103519967708291&set=a.529237706231.2034669.4&type=3&theater",
@@ -11,7 +8,7 @@
         {
             "speaker": "Mark Zuckerberg",
             "statement": "Today Priscilla and I stopped by some local newspapers as we drove through Alabama. The folks there were working hard over President's Day weekend to keep their communities informed.\n\nIt seems like a good time to say thank you to all the journalists around the world who work tirelessly and sometimes put their lives in danger to surface the truth.\n\nI don't always agree with everything you say, but that's how democracy is supposed to work. \n\nI know I join many people in America and across the world in thanking you for your work.",
-            "pos": 0
+            "position": 0
         }
     ]
 }

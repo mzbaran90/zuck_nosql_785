@@ -2,7 +2,7 @@ import json
 
 class Transcript(object):
     """
-    Extracts and stores information about a single transcript in the Zuckerber Files.
+    Extracts and stores information about a single transcript in the Zuckerberg Files.
     """
     def __init__(self, tree):
         self.record_id = tree.find('./metadata/record_id')

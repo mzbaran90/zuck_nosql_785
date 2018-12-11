@@ -1,9 +1,6 @@
 {
     "record_id": "2017-043",
     "title": "Quotes from \"Building Global Community\" 2",
-    "speakers": [
-        "Mark Zuckerberg"
-    ],
     "category": "social media post",
     "date": "2017-02-20",
     "url": "https://www.facebook.com/photo.php?fbid=10103512981493721&set=a.529237706231.2034669.4&type=3&theater",
@@ -11,7 +8,7 @@
         {
             "speaker": "Mark Zuckerberg",
             "statement": "\"Building a global community that works for everyone starts with the millions of smaller communities and intimate social structures we turn to for our personal, emotional and spiritual needs. \n\nWhether they're churches, sports teams, unions or other local groups, they all share important roles as social infrastructure for our communities. They provide all of us with a sense of purpose and hope; moral validation that we are needed and part of something bigger than ourselves; comfort that we are not alone and a community is looking out for us; mentorship, guidance and personal development; a safety net; values, cultural norms and accountability; social gatherings, rituals and a way to meet new people; and a way to pass time.\"\n\n- Building Global Community\n\nThis photo is from a discussion I had with pastors about building community last month in Waco, Texas.",
-            "pos": 0
+            "position": 0
         }
     ]
 }

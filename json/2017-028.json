@@ -1,9 +1,6 @@
 {
     "record_id": "2017-028",
     "title": "MZ @ Fort Worth Data Center",
-    "speakers": [
-        "Mark Zuckerberg"
-    ],
     "category": "social media post",
     "date": "2017-01-18",
     "url": "https://www.facebook.com/photo.php?fbid=10103423046494181&set=a.529237706231.2034669.4&type=3&theater",
@@ -11,7 +8,7 @@
         {
             "speaker": "Mark Zuckerberg",
             "statement": "I just stopped by our new data center being built in Fort Worth, Texas. It's going to be one of the biggest data centers in the world and it's powered entirely by wind energy.\n\nThis site was a dirt field just a year and a half ago. Now almost 1,000 people work here every day. I was also impressed that 31% of the full-time employees at the data center are veterans. It goes to show that data centers like this one aren't just important to keep our service up and running, they're also important parts of the community. Thanks to everyone in Fort Worth for having me!",
-            "pos": 0
+            "position": 0
         }
     ]
 }

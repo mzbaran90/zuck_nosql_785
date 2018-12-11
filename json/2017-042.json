@@ -1,9 +1,6 @@
 {
     "record_id": "2017-042",
     "title": "Quotes from \"Building Global Community\" 1",
-    "speakers": [
-        "Mark Zuckerberg"
-    ],
     "category": "social media post",
     "date": "2017-02-18",
     "url": "https://www.facebook.com/zuck/posts/10103511653584861",
@@ -11,7 +8,7 @@
         {
             "speaker": "Mark Zuckerberg",
             "statement": "\"History is the story of how we've learned to come together in ever greater numbers -- from tribes to cities to nations. At each step, we built social infrastructure like communities, media and governments to empower us to achieve things we couldn't on our own.\n\nToday we are close to taking our next step. Our greatest opportunities are now global -- like spreading prosperity and freedom, promoting peace and understanding, lifting people out of poverty, and accelerating science. Our greatest challenges also need global responses -- like ending terrorism, fighting climate change, and preventing pandemics. Progress now requires humanity coming together not just as cities or nations, but also as a global community.\n\nThis is especially important right now. Facebook stands for bringing us closer together and building a global community. When we began, this idea was not controversial. Every year, the world got more connected and this was seen as a positive trend. Yet now, across the world there are people left behind by globalization, and movements for withdrawing from global connection. There are questions about whether we can make a global community that works for everyone, and whether the path ahead is to connect more or reverse course.\n\nThis is a time when many of us around the world are reflecting on how we can have the most positive impact. I am reminded of my favorite saying about technology: \"We always overestimate what we can do in two years, and we underestimate what we can do in ten years.\" We may not have the power to create the world we want immediately, but we can all start working on the long term today. In times like these, the most important thing we at Facebook can do is develop the social infrastructure to give people the power to build a global community that works for all of us.\"\n\n- Building Global Community\n\nhttps://www.facebook.com/notes/mark-zuckerberg/building-global-community/10154544292806634",
-            "pos": 0
+            "position": 0
         }
     ]
 }

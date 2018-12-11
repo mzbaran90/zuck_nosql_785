@@ -1,13 +1,6 @@
 {
     "record_id": "2017-211",
     "title": "Sanford Underground Research Facility",
-    "speakers": [
-        "Mark Zuckerberg",
-        "Speaker 2",
-        "Speaker 3",
-        "Jared",
-        "Dan"
-    ],
     "category": "social media post",
     "date": "2018-01-15",
     "url": "https://www.facebook.com/zuck/videos/10103879609717821/",
@@ -15,137 +8,137 @@
         {
             "speaker": "Mark Zuckerberg",
             "statement": "Alright. Hey, everyone. We're live from ... I guess we're about a mile underneath the earth's surface here in the Stanford Underground Research Lab in South Dakota. When you think of South Dakota, most people probably don't think about really high tech research labs, which is why I thought it would be interesting to go live from here. This completes a series that we've done where last year, we went live to the International Space Station. So I thought that was pretty neat at the time, so now being able to go live from a mile underneath the earth's surface gets to the other end of the spectrum and showing that we have connectivity down here and the ability to broadcast live to all these people around the world.\n\nThe work that's going on here is interesting on a couple of fronts, both the science and the community. I'm going to ask a couple of folks who work here to come over in a second and talk about some of what they've experienced and some of the work that they're doing. Scientifically, being a mile under the earth makes it easier to pick up signals around things, like neutrinos, with some mask from the rock face about this, so that way you're not picking up all the cosmic rays from the sun.\n\nSo it makes it so that you can build equipment that can detect the different particles and the different states of things without distraction from the other cosmic rays. So they'll get into that in a little bit more in a second and what the implications for that are for understanding the universe and a lot of the different cutting edge of physics. The other thing that's just super interesting about this place is it used to be a gold mine. If you go back, how recently was this active? 15, 17 years ago?",
-            "pos": 0
+            "position": 0
         },
         {
             "speaker": "Speaker 2",
             "statement": "Yeah.",
-            "pos": 1
+            "position": 1
         },
         {
             "speaker": "Mark Zuckerberg",
             "statement": "Right, and this was the largest gold mine in North America, I think maybe even the whole Western Hemisphere. I think that this place produced about, what was it, like 3 million pounds of gold or something on that order of magnitude? So one of the interesting things that, as we go around the country for this year of travel, that we've seen as a theme is there are a lot of places that have had their economy primarily focus on natural resources or on the land. They're switching to modern knowledge economies and making it so that rather than people fighting over resources, and if one person has gold, that means another person doesn't have it. With a knowledge economy, that's not the case.\n\nYou learn something new, you discover something and everyone can benefit from that. As a lot of these facilities and the economies get upgraded to a modern knowledge economy, that becomes positive sum and really, everyone can benefit from that. Before going on for too long on this, I want to introduce a couple of the folks here on the science side to start. This is Jared. He's the scientific director here, and [inaudible 00:02:41], who was running and just explaining to me one of the interesting experiments that you guys are running on detecting neutrinos and trying to understand basically what is going on with matter and antimatter in the world.",
-            "pos": 2
+            "position": 2
         },
         {
             "speaker": "Speaker 3",
             "statement": "Correct.",
-            "pos": 3
+            "position": 3
         },
         {
             "speaker": "Mark Zuckerberg",
             "statement": "I don't know. If you want to start off just talking about why this experiment is important for the world and what exactly you're testing for and why it's good to be here.",
-            "pos": 4
+            "position": 4
         },
         {
             "speaker": "Speaker 3",
             "statement": "Yes. So this is the Majorana Demonstrator Experiment, which is under nuclear physics, and we're trying to understand the behavior of a neutrino. It's kind of interesting that we're shielding ourselves from everything around us so that we can try to not see a neutrino and look at this rare occurrence that's called neutrinoless double-beta decay. Hopefully, this will give us more of an understanding on why there's matter in the universe and why we're here. Scientists come all over the United States and all over the world that are part of this collaboration. Students, scientists from universities, Department of Energy. They all come and we've been assembling this experiment for five years. We've finished. We're taking data, and it opens up so many possibilities in this area.",
-            "pos": 5
+            "position": 5
         },
         {
             "speaker": "Mark Zuckerberg",
             "statement": "So talk a little bit about the experiment that you're running with Fermilab. Basically, you have this other lab that's, what, 500 miles away in Illinois that is sending neutrinos out over here. You're basically trying to tell whether the state changes to be one in a billion of the neutrinos or so converts to being ... I might get this wrong, but not antimatter neutrinos, but anti-neutrinos.",
-            "pos": 6
+            "position": 6
         },
         {
             "speaker": "Speaker 3",
             "statement": "Different flavors.",
-            "pos": 7
+            "position": 7
         },
         {
             "speaker": "Mark Zuckerberg",
             "statement": "So trying to explain why what we observe in the world is more matter than antimatter when you look out there. Talk a little bit about that experiment.",
-            "pos": 8
+            "position": 8
         },
         {
             "speaker": "Speaker 3",
             "statement": "Well, so long baseline, so this would be the far side [inaudible 00:04:32] a beam of electrons coming through and understanding how is it they leave from Fermilab. And then what is the change that occurs when they hit the target here? So what is that flavor change?",
-            "pos": 9
+            "position": 9
         },
         {
             "speaker": "Jared",
             "statement": "Yeah, that's right. The accelerator in Fermilab will produce this really intense beam of neutrinos, shoot it through the earth, no pipe. The neutrinos travel right through the rock, hardly even know it's there, interact with larges vats of liquid argon. 13 million gallons of liquid argon will form the the target for the ... Do an experiment, a deep underground neutrino experiment. There, they will look for these differences. They'll shoot a beam of matter particles at neutrinos, measure the properties, measure the ... count the number of interactions. Then they'll change that to an antimatter beam, an anti-neutrino beam, shoot that beam through the earth, just like they did with the neutrino beam, and count the interactions and look for that difference. That will help them understand whether the neutrino has this slight preference for matter over antimatter. We believe that's the case. We believe the neutrino has that hidden in its properties, but we're trying to really narrow that down with this multi-billion mega-science project. Do an experiment, the deep underground neutrino experiment at the long baseline neutrino facility here.",
-            "pos": 10
+            "position": 10
         },
         {
             "speaker": "Mark Zuckerberg",
             "statement": "And at the end, if you can detect that even one in a billion has a slight preference for becoming matter rather the anti-neutrino, then that would be one signal in helping to clear up why most of what is observed out there, stars, planets, et cetera, are matter and not antimatter.",
-            "pos": 11
+            "position": 11
         },
         {
             "speaker": "Jared",
             "statement": "That's right. It's a really fundamental puzzle that we look at the universe: tables, chairs, stars, planets and galaxies, they're all made of matter. In the early universe, after the Big Bang, we know that equal parts matter and antimatter were formed. We don't see any of that antimatter expect in the accelerator centers where we can produce small parts of smaller and smaller amounts. This would be a massive signature for something that is really fundamental to our existence and finding it out in the smallest of particles.",
-            "pos": 12
+            "position": 12
         },
         {
             "speaker": "Mark Zuckerberg",
             "statement": "So let's talk a little bit about the dark matter experiments that you're doing too. A lot of current scientific theory would suggest that a large portion of the mass of the universe should be dark matter, which no one has ever observed. You've run a bunch of experiments here that have been some of the most advanced in the world that have still not actually picked up or observed dark matter, but I'm curious to hear what you're working on next and why that's important as well.",
-            "pos": 13
+            "position": 13
         },
         {
             "speaker": "Jared",
             "statement": "Absolutely. So five times more matter in dark matter compared to normal matter. It's also a very fundamental, very significant part of our universe. We just wrapped up running with the large underground xenon experiment. Xenon is a target, and that ran and was the world's leading experiment in terms of sensitivity for almost four years. That experiment has been decommissioned. It's run its course. We're wrapping up now and starting construction on [inaudible 00:07:34] or LZ experiment that will have 30 times the volume [inaudible 00:07:40] for 100 times the sensitivity, looking for a signature [inaudible 00:07:44] no one's ever seen before. We have indirect evidence. We know that the rotation speeds of the galaxies are too fast. From the matter that we've seen, the galaxies should fling themselves apart, [inaudible 00:07:55]. We also see evidence through the gravitational lens. Space-time bends. There's some mass that we can't see.",
-            "pos": 14
+            "position": 14
         },
         {
             "speaker": "Speaker 3",
             "statement": "It's interesting because all of the projects we have are different, but they all overlap in some matter. The large neutrino experiment looking at neutrino flavor, dark matter, even majorana. We all are looking at this very low-energy region of interest where these things can occur. Yeah, they're separate, but still the same.",
-            "pos": 15
+            "position": 15
         },
         {
             "speaker": "Mark Zuckerberg",
             "statement": "Awesome. Well, thank you for taking the time to explain this both, explaining it to me earlier in a little bit more detail and for explaining it to all the folks who are watching now online. I want to make sure we get a moment to talk about the community information aspect of converting this from a gold mine to a big science research facility. So Dan, here, has some really interesting perspective on it because you actually worked here when it was a gold mine.",
-            "pos": 16
+            "position": 16
         },
         {
             "speaker": "Dan",
             "statement": "Correct.",
-            "pos": 17
+            "position": 17
         },
         {
             "speaker": "Mark Zuckerberg",
             "statement": "And have had a career here now working through it being a big massive underground science lab, so I'm curious. Take us through what you've seen and how it's evolved. Also, not just here, but the community around here and how that's been shaped by changing from a natural resource-based enterprise, one that's more about science and knowledge.",
-            "pos": 18
+            "position": 18
         },
         {
             "speaker": "Dan",
             "statement": "I started for the Homestake Mine. In '72, there was about 2200 employees. Through the transitions of the cost of gold and the production methods and stuff, it transitioned over the years until about 1998 when Homestake Mining Company was taken over by Barrick Mining Company and the decision was made to cut down about 50%. They realized after a few years that wasn't going to last, so the mine was closed and went into a closure of property. At the time that they decided to close, 50% of the workforce was laid off and they transitioned over the next few years. So in that period of time, those people that had been laid off, transitioned into jobs. Fortunately, the Wyoming coal fields were close. A lot of guys went that way. Others reinvented themselves, and that's what I did. I started my own business and came up with a business that found a way to make a living around here.\n\nI was fortunate to stay in the community, but the community was reducing in size. I was on the school board right when they closed. There was about 1100 students in our school district. Within a few years now, we're down to about 800 [inaudible 00:10:36]. But the size of the community has changed tremendously and it's about 2003, the transition to the possibility of the science came along and groups were starting to work towards that. With the [inaudible 00:10:56] Stanford's support, the underground research was able to restart. And so groups were put together to reactivate the equipment. I was hired on to help restart that, and then within a few years, there was enough equipment where the reentry started to re-pump or pump the water out and get it out, so the science can restart. The transition, as far as the rest of the community, is other people reinvented themselves, found new professions. Some moved away, stayed in the mining business.",
-            "pos": 19
+            "position": 19
         },
         {
             "speaker": "Mark Zuckerberg",
             "statement": "Alright. Well, the facility is super interesting. In order to get down here, we were talking for about 11 minutes during the elevator ride down here, which is this ... I guess you guys do this every day. Right?",
-            "pos": 20
+            "position": 20
         },
         {
             "speaker": "Speaker 3",
             "statement": "No, no. It's a cage.",
-            "pos": 21
+            "position": 21
         },
         {
             "speaker": "Mark Zuckerberg",
             "statement": "Sure. Well, elevator might've been a euphemism or maybe a little more nicer than it actually is. But I mean, that's basically the function that it served. You walk into it. It's a lift and it takes you down a mile, and it takes 10 or 11 minutes, and it feels like something that would've been in a mine, not in an office building or something like that. But in a lot of the facility here, you've had to basically rework and make sure that it can work for the kind of science that you're doing today.",
-            "pos": 22
+            "position": 22
         },
         {
             "speaker": "Dan",
             "statement": "We're in the process of improving all those infrastructures as we speak. We're not done yet. We made significant improvements, added new technologies to it, and there's future improvements to that technology to make it more efficient, more dependable on the use of that stuff. Like you said, when I first started, it'd take three minutes to get down here. Now, quite a bit longer, but that was designed that way to be a safer transport while the rest of the infrastructure is improved, but it was quite a deal for a 19-year-old like myself that had never experienced industry to come here and be exposed to it.",
-            "pos": 23
+            "position": 23
         },
         {
             "speaker": "Mark Zuckerberg",
             "statement": "Yeah. I can imagine. Alright. Is there anything else that you guys think we should cover while we're here?",
-            "pos": 24
+            "position": 24
         },
         {
             "speaker": "Dan",
             "statement": "Nope.",
-            "pos": 25
+            "position": 25
         },
         {
             "speaker": "Mark Zuckerberg",
             "statement": "Alright. Well, thank you so much. I think the science work that you're all doing is going to be really important, so I'm grateful for it. I hope more people who are watching this think of going into science research. I mean, this is really long-term and important work for the world, which is why we try to support it through the Chan-Zuckerberg Initiative. I am just really optimistic about all the work here. Just as a community and how it's evolved, I think it's super interesting as a case as I've traveled around the country of communities that have evolved from doing one thing historically, to doing another and modernizing. What you're all doing is really impressive, so thank you for taking the time to show me today. Thanks. Alright.",
-            "pos": 26
+            "position": 26
         }
     ]
 }

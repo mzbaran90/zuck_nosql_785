@@ -37,10 +37,9 @@ if __name__ == '__main__':
     set_working_directory()
     for file in iglob('xml/*.xml'):
         tree = ET.parse(file)
-
         transcript = Transcript(tree)
-        with open('JSON/{}.txt'.format(transcript.record_id), 'w') as outfile:
-            json.dump(transcript.__dict__, outfile)
+        with open('JSON/{}.json'.format(transcript.record_id), 'w') as outfile:
+            json.dump(transcript.__dict__, outfile, indent=4)
 
 
 

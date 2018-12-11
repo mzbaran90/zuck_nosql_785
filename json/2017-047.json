@@ -1,9 +1,6 @@
 {
     "record_id": "2017-047",
     "title": "MZ @ Birmingham w/ Anthony Ray Hinton",
-    "speakers": [
-        "Mark Zuckerberg"
-    ],
     "category": "social media post",
     "date": "2017-02-22",
     "url": "https://www.facebook.com/photo.php?fbid=10103520580724801&set=a.529237706231.2034669.4&type=3&theater",
@@ -11,7 +8,7 @@
         {
             "speaker": "Mark Zuckerberg",
             "statement": "Priscilla and I got into Birmingham tonight and got to meet Anthony Ray Hinton. He spent 30 years in prison on death row for a crime he didn't commit, and was exonerated and released only a couple years ago.\n\nHe told us the story of how he was arrested for a murder at a restaurant where the only description of the killer was a black man with lighter skin and a beard. The detective asked if he owned a gun and he said no. The detective asked if any of his family members did and he said yes. They didn't bother to check whether the gun matched the bullets in the crime. The detective told him he was going to get convicted because he was black. The jury convicted him and he was sent to death row.\n\nYears later, Bryan Stevenson at the Equal Justice Initiative started researching his case. He hired experts who proved that the bullets in the crime couldn't possibly have come from Anthony's mother's gun. But Bryan had to get the courts to reconsider Anthony's case given the new evidence. They wouldn't do it for 15 more years despite the clear evidence that would exonerate Anthony. Finally Bryan took the case to the Supreme Court, and they ruled that the evidence had to be considered. The state court immediately dropped the case and Anthony was freed, after 30 years.\n\nHe told us that after unjustly locking him away for 30 years, nobody even apologized for that mistake.\n\nWhen I heard this, I apologized to him -- not because I could have helped in his case, but because it is all of our responsibility to make our society one of justice for all.\n\nAs a parting thought, he told us: \"I believe that when bad things happen, good people need to stand up and make sure it doesn't happen again.\" \n\nWe have a long way to go, but thanks to folks like Bryan Stevenson and Anthony Ray Hinton we will keep fighting until we get there.",
-            "pos": 0
+            "position": 0
         }
     ]
 }

@@ -1,9 +1,6 @@
 {
     "record_id": "2017-034",
     "title": "Founders Letter, 2012: Five Years Later",
-    "speakers": [
-        "Mark Zuckerberg"
-    ],
     "category": "social media post",
     "date": "2017-02-01",
     "url": "https://www.facebook.com/zuck/posts/10154500412571634",
@@ -11,7 +8,7 @@
         {
             "speaker": "Mark Zuckerberg",
             "statement": "I wrote this letter exactly five years ago when we announced Facebook's IPO. The letter is an explanation of how I see our community and our role in the world.\n\nFive years later, the world has changed a lot and so have we. I'm almost done writing a new letter about how I see our community and our role evolving, and I'll share it soon.",
-            "pos": 0
+            "position": 0
         }
     ]
 }

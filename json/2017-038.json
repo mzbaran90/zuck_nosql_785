@@ -1,9 +1,6 @@
 {
     "record_id": "2017-038",
     "title": "MZ @ Oculus Research Lab",
-    "speakers": [
-        "Mark Zuckerberg"
-    ],
     "category": "social media post",
     "date": "2017-02-09",
     "url": "https://www.facebook.com/zuck/posts/10103490859636101",
@@ -11,7 +8,7 @@
         {
             "speaker": "Mark Zuckerberg",
             "statement": "I just visited our Oculus Research lab in Redmond, Washington where some of the best scientists and engineers in the world are pushing the boundaries of virtual and augmented reality.\n\nThe team is led by Michael Abrash and focuses on things like advanced optics, eye tracking, mixed reality and new ways to map the human body. The goal is to make VR and AR what we all want it to be: glasses small enough to take anywhere, software that lets you experience anything, and technology that lets you interact with the virtual world just like you do with the physical one.\n\nOculus Rift is already the best VR experience you can buy -- and the technology being built in this lab right now makes me want the future to get here a lot sooner.",
-            "pos": 0
+            "position": 0
         }
     ]
 }

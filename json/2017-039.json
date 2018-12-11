@@ -1,9 +1,6 @@
 {
     "record_id": "2017-039",
     "title": "MZ w/ Bill Gates",
-    "speakers": [
-        "Mark Zuckerberg"
-    ],
     "category": "social media post",
     "date": "2017-02-14",
     "url": "https://www.facebook.com/photo.php?fbid=10103491710490981&set=a.529237706231.2034669.4&type=3&theater",
@@ -11,7 +8,7 @@
         {
             "speaker": "Mark Zuckerberg",
             "statement": "Bill Gates joined my product reviews today to discuss how we can help more people raise money for charitable causes on Facebook and how we can help more with disaster recovery. Thanks Bill for the great advice as always!",
-            "pos": 0
+            "position": 0
         }
     ]
 }

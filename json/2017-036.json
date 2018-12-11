@@ -1,9 +1,6 @@
 {
     "record_id": "2017-036",
     "title": "Biohub's First Class of Investigators",
-    "speakers": [
-        "Mark Zuckerberg"
-    ],
     "category": "social media post",
     "date": "2017-02-08",
     "url": "https://www.facebook.com/photo.php?fbid=10103488198938161&set=a.529237706231.2034669.4&type=3&theater",
@@ -11,7 +8,7 @@
         {
             "speaker": "Mark Zuckerberg",
             "statement": "Our team at the Biohub just funded its first class of investigators -- 47 scientists from Stanford, UCSF and Berkeley working to help cure all diseases in our children's lifetime.\n\nToday, just four kinds of diseases cause the majority of deaths. The Chan Zuckerberg Initiative is focused on bringing scientists and engineers together to build technology to make progress on all of them. \n\nWe're investing $50 million in this first class of investigators. This program will provide 5 years of funding to some of the most innovative researchers in the Bay Area, especially focused on young scientists early in their careers. \n\nThis first group includes a Stanford data scientist working to analyze massive quantities of genomic data, a doctor from UCSF looking at how malaria spreads, an engineer from Berkeley who is designing tools to better understand human biology, including a miniature foldable microscope, and more. This is a diverse group, with almost 50% women and 15% underrepresented minorities.\n\nThanks to everyone who applied for this program, and to Biohub leaders Joe DeRisi and Steve Quake for choosing such an amazing group. I'm excited to see what they come up with.",
-            "pos": 0
+            "position": 0
         }
     ]
 }

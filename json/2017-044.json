@@ -1,9 +1,6 @@
 {
     "record_id": "2017-044",
     "title": "\"Can We All Do Better?\"",
-    "speakers": [
-        "Mark Zuckerberg"
-    ],
     "category": "social media post",
     "date": "2017-02-20",
     "url": "https://www.facebook.com/zuck/posts/10103515344528181",
@@ -11,7 +8,7 @@
         {
             "speaker": "Mark Zuckerberg",
             "statement": "\"We can succeed only by concert. It is not 'can any of us imagine better?' but, 'can we all do better?' The dogmas of the quiet past, are inadequate to the stormy present. The occasion is piled high with difficulty, and we must rise with the occasion. As our case is new, so we must think anew, act anew.\"\n\n- Abraham Lincoln",
-            "pos": 0
+            "position": 0
         }
     ]
 }

@@ -1,9 +1,6 @@
 {
     "record_id": "2017-027",
     "title": "MZ @ Dallas Police Department",
-    "speakers": [
-        "Mark Zuckerberg"
-    ],
     "category": "social media post",
     "date": "2017-01-17",
     "url": "https://www.facebook.com/photo.php?fbid=10103419813453221&set=a.529237706231.2034669.4&type=3&theater",
@@ -11,7 +8,7 @@
         {
             "speaker": "Mark Zuckerberg",
             "statement": "My next stop in Texas was meeting with officers from the Dallas Police Department.\n\nThese officers do such important work, and it meant a lot to me to be able to thank them in person. We had a good discussion about how social media is changing law enforcement. Facebook and technologies like live video create new ways to build accountability and trust, but they also create new challenges for police that didn't exist before. \n\nThe officers had good ideas for how we can help them connect with their communities to keep people safe, and I'll be taking a lot of them back to our teams.",
-            "pos": 0
+            "position": 0
         }
     ]
 }
