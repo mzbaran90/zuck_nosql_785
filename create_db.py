@@ -38,25 +38,26 @@ if __name__ == '__main__':
     db.transcripts.create_index([('statements.speaker', ASCENDING)])
     #db.transcripts.create_index(['url', ASCENDING])
 
-    # db.transcripts.create_index({[
-    #     'title', 'text'
-    #     'description', 'text',
-    #     'statements.statement','text'
-    # ]})
-    # db.transcripts.create_index({[
-    #     'statements.speaker': ASCENDING,
-    #     'statements.position': ASCENDING
-    # ]})
-    # db.transcripts.create_index({
-    #     'statements.speaker': ASCENDING,
-    #     'date': DESCENDING
-    # })
-    # db.transcripts.create_index({
-    #     'statements.speaker': ASCENDING,
-    #     'format': ASCENDING
-    # })
-    # db.transcripts.create_index({
-    #     'statements.speaker': ASCENDING,
-    #     'source': ASCENDING
-    # })
+    db.transcripts.create_index([
+        ('title', 'text'),
+        ('description', 'text',),
+        ('statement', 'text')
+
+    ])
+    db.transcripts.create_index([
+        ('statements.speaker', ASCENDING),
+    ('statements.position', ASCENDING)
+    ])
+    db.transcripts.create_index([
+        ('statements.speaker', ASCENDING),
+        ('date', DESCENDING)
+    ])
+    db.transcripts.create_index([
+        ('statements.speaker', ASCENDING),
+        ('format', ASCENDING)
+    ])
+    db.transcripts.create_index([
+        ('statements.speaker', ASCENDING),
+        ('source', ASCENDING)
+    ])
 

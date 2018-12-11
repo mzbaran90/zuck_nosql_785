@@ -2,55 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a196f78-96b7-4c3b-9193-4b781363c5d0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/convert_transcript.py" beforeDir="false" afterPath="$PROJECT_DIR$/convert_transcript.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/create_db.py" beforeDir="false" afterPath="$PROJECT_DIR$/create_db.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2017-026.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/2017-026.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2017-027.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/2017-027.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2017-028.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/2017-028.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2017-029.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/2017-029.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2017-030.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/2017-030.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2017-031.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/2017-031.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2017-032.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/2017-032.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2017-033.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/2017-033.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2017-034.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/2017-034.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2017-035.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/2017-035.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2017-036.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/2017-036.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2017-037.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/2017-037.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2017-038.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/2017-038.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2017-039.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/2017-039.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2017-040.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/2017-040.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2017-041.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/2017-041.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2017-042.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/2017-042.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2017-043.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/2017-043.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2017-044.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/2017-044.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2017-045.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/2017-045.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2017-046.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/2017-046.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2017-047.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/2017-047.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2017-048.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/2017-048.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2017-049.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/2017-049.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2017-050.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/2017-050.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2017-051.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/2017-051.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2017-053.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/2017-053.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2017-074.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/2017-074.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2017-126.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/2017-126.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2017-182.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/2017-182.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2017-191.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/2017-191.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2017-207.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/2017-207.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2017-211.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/2017-211.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2018-025.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2018-026.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2018-027.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2018-028.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2018-029.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/2018-030.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/transcript.py" beforeDir="false" afterPath="$PROJECT_DIR$/transcript.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xml/2018-025.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xml/2018-026.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xml/2018-027.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xml/2018-028.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xml/2018-029.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xml/2018-030.xml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -73,8 +25,8 @@
       <file leaf-file-name="create_db.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/create_db.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="40" selection-start-line="40" selection-end-line="44" selection-end-column="9" />
+            <state relative-caret-position="250">
+              <caret line="56" column="29" lean-forward="true" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
               </folding>
@@ -434,8 +386,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/create_db.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="40" selection-start-line="40" selection-end-line="44" selection-end-column="9" />
+        <state relative-caret-position="250">
+          <caret line="56" column="29" lean-forward="true" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
           </folding>
