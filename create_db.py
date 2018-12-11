@@ -36,18 +36,20 @@ if __name__ == '__main__':
     db.transcripts.create_index([('type', ASCENDING)])
     db.transcripts.create_index([('format', ASCENDING)])
     db.transcripts.create_index([('statements.speaker', ASCENDING)])
-    #db.transcripts.create_index(['url', ASCENDING])
 
+    # Compound and text indexes
     db.transcripts.create_index([
         ('title', 'text'),
         ('description', 'text',),
-        ('statement', 'text')
+        ('statements.statement', 'text')], default_language = 'english'
 
-    ])
+    )
+
     db.transcripts.create_index([
         ('statements.speaker', ASCENDING),
     ('statements.position', ASCENDING)
     ])
+
     db.transcripts.create_index([
         ('statements.speaker', ASCENDING),
         ('date', DESCENDING)
@@ -56,6 +58,7 @@ if __name__ == '__main__':
         ('statements.speaker', ASCENDING),
         ('format', ASCENDING)
     ])
+
     db.transcripts.create_index([
         ('statements.speaker', ASCENDING),
         ('source', ASCENDING)
